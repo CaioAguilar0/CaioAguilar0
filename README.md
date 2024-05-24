@@ -19,6 +19,33 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/CaioAguilar0/CaioAguilar0/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/caio-aguilar-56313b235/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://is.gd/gNG0W5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/553384088654" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="t.me/CaioAgDev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="30" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="239" src="https://giffiles.alphacoders.com/215/215837.gif"  />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -32,8 +59,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -49,33 +74,6 @@
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="239" src="https://giffiles.alphacoders.com/215/215837.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/CaioAguilar0/CaioAguilar0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/caio-aguilar-56313b235/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://is.gd/gNG0W5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/553384088654" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="t.me/CaioAgDev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="40" alt="telegram logo"  />
-  </a>
 </div>
 
 ###
